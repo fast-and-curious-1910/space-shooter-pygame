@@ -33,3 +33,8 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+###### Open In repl.it
+
+[![Run on Repl.it](https://repl.it/badge/github/fast-and-curious-1910/space-shooter-pygame)](https://repl.it/github/fast-and-curious-1910/space-shooter-pygame)
